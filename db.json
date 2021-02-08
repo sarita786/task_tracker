@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Sarita MC",
+      "day": "Monday 6th December",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Santosh MC",
+      "day": "Tuesday 7th January",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
